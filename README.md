@@ -8,27 +8,54 @@ there are 25 keys in range, since this is the range in which all the trackers I'
 and it corresponds nicely to the range of most 25-key midi keyboards.
 
 Z:   C,
+
 S:   C#,
+
 X:   D,
+
 D:   D#,
+
 C:   E,
+
 V:   F,
+
 G:   F#,
+
 B:   G,
+
 H:   G#,
+
 N:   A,
+
 J:   A#,
+
 M:   B,,
+
 Q:   C^,
+
 2:   C#^,
+
+
 W:   D^,
+
 3:   D#^,
+
 E:   E^,
+
 R:   F^,
+
 5:   F#^,
+
 T:   G^,
+
 6:   G#^,
+
 Y:   A^,
+
 7:   A#^,
+
 U:   B^,
+
 I:   C^^,
+
+
