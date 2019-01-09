@@ -7,55 +7,54 @@ takes midi key on/off events and outputs qwerty keyboard presses based on the pi
 there are 25 keys in range, since this is the range in which all the trackers I've tested are consistent,
 and it corresponds nicely to the range of most 25-key midi keyboards.
 
-Z:   C,
+Z:   C
 
-S:   C#,
+S:   C#
 
-X:   D,
+X:   D
 
-D:   D#,
+D:   D#
 
-C:   E,
+C:   E
 
-V:   F,
+V:   F
 
-G:   F#,
+G:   F#
 
-B:   G,
+B:   G
 
-H:   G#,
+H:   G#
 
-N:   A,
+N:   A
 
-J:   A#,
+J:   A#
 
-M:   B,,
+M:   B
 
-Q:   C^,
+Q:   C^
 
-2:   C#^,
+2:   C#^
 
+W:   D^
 
-W:   D^,
+3:   D#^
 
-3:   D#^,
+E:   E^
 
-E:   E^,
+R:   F^
 
-R:   F^,
+5:   F#^
 
-5:   F#^,
+T:   G^
 
-T:   G^,
+6:   G#^
 
-6:   G#^,
+Y:   A^
 
-Y:   A^,
+7:   A#^
 
-7:   A#^,
+U:   B^
 
-U:   B^,
-
-I:   C^^,
+I:   C^^
 
 
